@@ -1,25 +1,29 @@
-# A New Project
+## A New Project
 
-Welcome to the new project! This project is designed to showcase the capabilities of our team and provide a starting point for future projects.
+This is a new project that does amazing things.
 
-## Getting Started
+### Installation
 
-To get started with this project, follow these steps:
+To install this project, follow these steps:
 
-1. Clone the repository to your local machine.
-2. Install the necessary dependencies by running `npm install`.
-3. Start the application by running `npm start`.
+1. Clone the repository.
+2. Run `npm install`.
+3. Run `npm start`.
 
-## Usage
+### Usage
 
-Once the application is running, navigate to `http://localhost:3000` in your web browser to view the application.
+To use this project, follow these steps:
 
-## Contributing
+1. Do amazing things with it.
 
-We welcome contributions to this project. To contribute, follow these steps:
+### Contributing
+
+To contribute to this project, follow these steps:
 
 1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them with a descriptive message.
-4. Push your changes to your fork.
-5. Submit a pull request to the original repository.
+2. Make your changes.
+3. Submit a pull request.
+
+### License
+
+This project is licensed under the MIT License.
